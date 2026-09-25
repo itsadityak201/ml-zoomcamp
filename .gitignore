@@ -1,0 +1,17 @@
+# Conda / Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Local virtual environments
+.venv/
+venv/
+env/
